@@ -1,0 +1,6 @@
+@crud_curotec_HostAddress = http://localhost:5190
+
+GET {{crud_curotec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
