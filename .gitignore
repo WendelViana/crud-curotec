@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/crud-curotec/v17/DocumentLayout.json
+/.vs/crud-curotec/FileContentIndex
+/.vs/crud-curotec/v17
